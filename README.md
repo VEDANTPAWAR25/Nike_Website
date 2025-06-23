@@ -1,52 +1,59 @@
+Nike Home Page Clone
+📌 Project Overview
+This project is a front-end clone of the Nike Home Page, built using HTML and CSS. It replicates the design and layout of Nike's official website, featuring a responsive navigation bar, hero section, product showcase, and interactive UI elements.
 
-# **Nike Home Page Clone**  
+🚀 Features
+⚡ Clean and modern UI
 
-## 📌 **Project Overview**  
-This project is a front-end clone of the **Nike Home Page**, built using **HTML and CSS**. It replicates the design and layout of Nike's official website, featuring a **responsive navigation bar, hero section, product showcase, and interactive UI elements**.  
+📱 Fully responsive design
 
-## 🚀 **Features**  
-- ⚡ Clean and modern UI  
-- 📱 Fully responsive design  
-- 🛒 Product showcase section  
-- 🔍 Navigation bar with menu icons  
-- 🎨 Styled using CSS  
+🛒 Product showcase section
 
-## 🛠 **Technologies Used**  
-- **HTML5**  
-- **CSS3**  
+🔍 Navigation bar with menu icons
 
-## 📂 **Project Structure**  
-```
+🎨 Styled using CSS
+
+🛠 Technologies Used
+HTML5
+
+CSS3
+
+📂 Project Structure
+bash
+Copy
+Edit
 /nike-homepage-clone
 │── index.html
 │── style.css
 │── images/
 └── README.md
-```
+🖥 How to Run the Project
+Clone the repository:
 
-## 🖥 **How to Run the Project**  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/nike-homepage-clone.git
-   ```
-2. Open the project folder in **VS Code** or any code editor.  
-3. Run the `index.html` file in a browser.  
+sh
+Copy
+Edit
+git clone https://github.com/your-username/nike-homepage-clone.git
+Open the project folder in VS Code or any code editor.
 
-## 📸 **Preview**  
- ![image](https://github.com/user-attachments/assets/9e517e11-43e8-47e9-b847-b0f28198f096)
+Run the index.html file in a browser.
+
+🌐 Live Demo
+Check out the deployed project here:
+🔗 https://nike-website-liard.vercel.app/
+
+📸 Preview
 
 
-## 🎯 **Future Enhancements**  
-- Add JavaScript for interactive elements.  
-- Implement dynamic content fetching.  
-- Improve animations and transitions.  
+🎯 Future Enhancements
+Add JavaScript for interactive elements.
 
-## 📌 **Contributing**  
-Feel free to contribute by **reporting issues, submitting pull requests, or suggesting enhancements**.  
+Implement dynamic content fetching.
 
-## 📜 **License**  
-This project is for educational purposes only. It is not affiliated with or endorsed by **Nike**.  
+Improve animations and transitions.
 
----
+📌 Contributing
+Feel free to contribute by reporting issues, submitting pull requests, or suggesting enhancements.
 
-Let me know if you need any modifications! 🚀
+📜 License
+This project is for educational purposes only. It is not affiliated with or endorsed by Nike.
